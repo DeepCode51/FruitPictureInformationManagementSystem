@@ -1,0 +1,65 @@
+{
+  "name": "spbootvue14601sgtpglxxxt-client",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@riophae/vue-treeselect": "^0.4.0",
+    "add-dom-event-listener": "^1.1.0",
+    "axios": "^0.20.0",
+    "core-js": "^3.6.5",
+    "element-ui": "^2.14.1",
+    "font-awesome": "^4.7.0",
+    "normalize.css": "^8.0.1",
+    "nprogress": "^0.2.0",
+    "objectdiff": "^1.1.0",
+    "qs": "^6.9.4",
+    "v-viewer": "^1.5.1",
+    "video.js": "^7.14.3",
+    "echarts": "^4.8.0",
+    "viewerjs": "^1.10.1",
+    "regenerator-runtime": "^0.13.9",
+    "vue": "^2.6.11",
+    "vue-baidu-map": "^0.21.22",
+    "vue-router": "^3.2.0",
+    "vue-video-player": "^5.0.2",
+    "vuedraggable": "^2.24.3",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "sass": "^1.32.5",
+    "sass-loader": "^10.0.3",
+    "vue-cli-plugin-element-ui": "~1.1.4",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}

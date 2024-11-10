@@ -1,0 +1,142 @@
+{
+  "id": "1594859",
+  "name": "音乐",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5795518",
+      "name": "回收站",
+      "font_class": "delete",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "8335074",
+      "name": "播放",
+      "font_class": "play-o",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "12575436",
+      "name": "Disc 光盘",
+      "font_class": "disc",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "12575438",
+      "name": "Download 下载",
+      "font_class": "download",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "12575439",
+      "name": "Like 喜欢",
+      "font_class": "like",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "12575443",
+      "name": "Mute 静音",
+      "font_class": "mute",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "12575444",
+      "name": "Music 音乐",
+      "font_class": "music",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "12575445",
+      "name": "ListCycle 列表循环",
+      "font_class": "list-cycle",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "12575446",
+      "name": "Last 上一曲",
+      "font_class": "prev",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "12575450",
+      "name": "Next 下一曲",
+      "font_class": "next",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "12575452",
+      "name": "Play 播放",
+      "font_class": "pause",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "12575453",
+      "name": "Setting 设置",
+      "font_class": "setting",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "12575454",
+      "name": "RandomPlay 随机播放",
+      "font_class": "random",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "12575455",
+      "name": "SingleCycle 单曲循环",
+      "font_class": "single-cycle",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "12575456",
+      "name": "Volume 音量",
+      "font_class": "volume",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "12575457",
+      "name": "Pause 暂停",
+      "font_class": "play",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "12575458",
+      "name": "Save 收藏",
+      "font_class": "collect",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "12575459",
+      "name": "PlayList 播放列表",
+      "font_class": "playlist",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "12575463",
+      "name": "SongList 歌单",
+      "font_class": "gedan",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    }
+  ]
+}

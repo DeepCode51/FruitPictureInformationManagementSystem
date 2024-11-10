@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.spring.dao.ShuiguotupianMapper">
+    <resultMap id="BaseResultMap" type="com.spring.entity.Shuiguotupian">
+        <id column="id" property="id" jdbcType="INTEGER"/>
+                            <result column="bianhao" property="bianhao" jdbcType="VARCHAR"/>
+                                    <result column="mingcheng" property="mingcheng" jdbcType="VARCHAR"/>
+                                    <result column="tupian" property="tupian" jdbcType="VARCHAR"/>
+                                    <result column="biaoqian" property="biaoqian" jdbcType="VARCHAR"/>
+                                    <result column="jianjie" property="jianjie" jdbcType="VARCHAR"/>
+                                    <result column="faburen" property="faburen" jdbcType="VARCHAR"/>
+                                    <result column="addtime" property="addtime" jdbcType="VARCHAR"/>
+                                
+    </resultMap>
+    <sql id="Base_Column_List">
+        id, bianhao, mingcheng, tupian, biaoqian, jianjie, faburen, addtime    </sql>
+    </mapper>
